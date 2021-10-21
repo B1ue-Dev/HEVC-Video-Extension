@@ -7,6 +7,11 @@ Download HEVC Video Extension for free without paying $0.99 on the Microsoft Sto
 3. Accept and Install on your system.
 4. Enjoy.
 
+# Alternative way
+1. Copy this link into your browser: ``ms-windows-store://pdp/?ProductId=9n4wgh0z6vhq``
+2. Microsoft (Windows) Store will open. Install it for free.
+3. Enjoy.
+
 # Disclaimer
 We do not encourage you to download and use this. It is better to pay for the $0.99 on the Microsoft Store, since there is a reason why VideoLAN (VLC) have this for free while on Microsoft Store, you need to pay for it. Look up for it by yourself.
 
